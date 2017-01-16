@@ -5,8 +5,9 @@
 This project template should provide a kickstart for managing your site
 dependencies with [Composer](https://getcomposer.org/).
 
-This is a fork of [drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project)
+This is a fork of [pfrenssen/drupal-project](https://github.com/pfrenssen/drupal-project)
 which is set up with support for Continuous Integration out of the box.
+Which is a fork of [drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project)
 
 ## Additional features
 
@@ -38,7 +39,7 @@ for your setup.
 After that you can create the project:
 
 ```
-git clone https://github.com/pfrenssen/drupal-project.git some-dir
+git clone https://github.com/notgoddess/drupal-project.git some-dir
 cd some-dir
 composer install
 ```
